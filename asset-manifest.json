@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d29c6525.css",
+    "main.js": "/static/js/main.2867eaa4.js",
+    "static/media/login-vector.png": "/static/media/login-vector.4ad9b4dbe3b235baa731.png",
+    "static/media/bleu_logo1.jpg": "/static/media/bleu_logo1.96324895ab03ee32ad1e.jpg",
+    "static/media/logo.png": "/static/media/logo.09b26b61f240e69c81b6.png",
+    "index.html": "/index.html",
+    "main.d29c6525.css.map": "/static/css/main.d29c6525.css.map",
+    "main.2867eaa4.js.map": "/static/js/main.2867eaa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d29c6525.css",
+    "static/js/main.2867eaa4.js"
+  ]
+}
